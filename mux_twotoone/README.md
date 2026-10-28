@@ -27,7 +27,7 @@ assign Y = S ? B : A;
 ## Files
 - `mux2to1.v`: RTL design
 - `tb_mux2to1.v`: Testbench
-- `simulation_results.png`: Waveform screenshot (optional)
+- `simulation_results.png`: Waveform screenshot 
 
 ## Learning Outcomes
 - RTL design using Verilog
