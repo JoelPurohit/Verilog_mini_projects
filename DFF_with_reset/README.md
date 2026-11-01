@@ -70,7 +70,7 @@ The waveform was verified to confirm the expected output behaviour.
 
 ### Simulation Waveform
 
-The Vivado behavioral simulation waveform is included in this repository as `simulation_results.png`.
+The Vivado behavioral simulation waveform is included in this repository as `tb_DFF_reset_behav.wcfg`.
 
 The waveform demonstrates:
 
